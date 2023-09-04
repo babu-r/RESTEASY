@@ -1,0 +1,16 @@
+[
+   {
+     "id": 1,
+     "name": "Burger",
+     "description": "Juicy beef burger with cheese and veggies.",
+     "price": 10.99,
+     "imageUrl": "burger.jpg"
+   },
+   {
+     "id": 2,
+     "name": "Pizza",
+     "description": "Delicious pizza with various toppings.",
+     "price": 12.99,
+     "imageUrl": "pizza.jpg"
+   }
+]
